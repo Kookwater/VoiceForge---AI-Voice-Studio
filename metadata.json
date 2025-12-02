@@ -1,0 +1,7 @@
+{
+  "name": "VoiceForge - AI Voice Studio",
+  "description": "A conversational AI voice studio powered by Gemini Live API. Customize voice tone, speed, and style in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
